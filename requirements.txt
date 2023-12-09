@@ -1,0 +1,8 @@
+numpy
+playsound==1.2.2
+pydub
+gpiozero
+glob
+sounddevice
+soundfile
+openai
